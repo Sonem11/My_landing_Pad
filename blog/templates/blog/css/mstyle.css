@@ -1,0 +1,25 @@
+﻿
+body {
+      background-color:#FFFAF0;
+      min-height:100%;
+      background-size:cover;
+}
+div {
+     text-align: center;
+     height:550px; 
+     background-image:url("image/parchment.png");
+     min-height:100%;
+     background-size:cover;
+     box-shadow: 20px 20px 5px #9999CC;
+}
+h1 {
+    font-size: 54px;
+    font-family:Comic Sans MS,Tahoma;
+    color:wheat;
+    text-align:center;
+   } 
+h2 {font-size: 14px;
+    font-family:Tahoma;
+    color:BlanchedAlmond;
+    text-align:center;
+}
